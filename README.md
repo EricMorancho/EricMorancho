@@ -31,7 +31,8 @@
 
 <a href="https://github.com/EricMorancho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricMorancho&theme=black&show_icons=true" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricMorancho)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricMorancho" />
+  
 </a>
 
 <br/>
