@@ -35,7 +35,7 @@
 
 <h3>Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/eric-riel-morancho-s%C3%A1nchez-83598417b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric Morancho-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:emorancho91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emorancho91@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
