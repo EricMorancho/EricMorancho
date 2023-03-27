@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Eric Morancho.</h2>
+<h2> Hello World! I'm Eric Morancho.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Vue.js, etc.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 - 🌱 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I'm a Criminologist and have a Master degree in Social Policies!.
+- 🔭 Fun fact: I'm a Criminologist and have a Master degree in Social Policies!.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
