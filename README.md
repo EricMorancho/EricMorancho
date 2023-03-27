@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Vue.js etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Vue.js, etc.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 - 🌱 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I'm a Criminologist and have a Master degree in Social Policies!.
