@@ -20,7 +20,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-%23F7DF1C?style=flat-square&logo=vue.js&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-%23F7DF1C?style=flat-square&logo=vue.js&logoColor=ffffff)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-339933?style=flat-square&logo=Vue.js&logoColor=ffffff)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
