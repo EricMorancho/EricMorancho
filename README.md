@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/76114369/227928102-8d5b54d7-be91-4ff2-a841-54c5daaed630.png)
+
+
 <h2> Hello World! I'm Eric Morancho.</h2>
 
 <h3> About Me </h3>
