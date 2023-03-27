@@ -30,7 +30,7 @@
 <br/>
 
 <a href="https://github.com/EricMorancho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricMorancho&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricMorancho&theme=black&show_icons=true" />
 </a>
 
 <br/>
